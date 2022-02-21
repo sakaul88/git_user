@@ -5,5 +5,3 @@ myusers:
     group: manager
   - name: bob
     group: developer 
-  - name: sameer
-    group: ibm
