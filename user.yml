@@ -1,5 +1,6 @@
-myusers:
-  - name: jeff
-    group: guests
-  - name: manish
-    group: manager
+---
+developer:
+       - stave
+       - tony 
+       - vision
+       - mark 

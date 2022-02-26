@@ -1,5 +1,5 @@
-[prod]
-192.168.0.2
+[lb_servers]
+servera.lab.example.com
 
-[dev]
-192.168.0.3
+[prod]
+serverb.lab.example.com
